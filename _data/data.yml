@@ -8,61 +8,63 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Leticia C. Cagnina
-  tagline: Full Stack Developer
+  name: Phd Leticia Cagnina
+  tagline: Researcher at CONICET (Argentina) Professor at UNSL (Argentina)
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
-  telegram: # add your nickname without '@' sign
-  gitlab:
-  bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
-  mastodon: # Please include your full Mastodon link here.
-  hackerrank: # Please provide your HackerRank username.
-  leetcode: # Please provide your LeetCode username.
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  email: lcagnina@email.unsl.edu.ar
+  #phone: 012 345 6789
+  #timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  citizenship: Argentine
+  website: https://sites.google.com/view/leticia-cagnina/home
+  Institutional Web: https://lidic.unsl.edu.ar/
+  linkedin: linkedin.com/in/leticia-cagnina-phd/
+  #xing: alandoe
+  github: lcagnina
+  ORCID: 0000-0001-7825-2927  
+  #telegram: # add your nickname without '@' sign
+  #gitlab:
+  #bitbucket:
+  #bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
+  #twitter: '@jekyllrb'
+  #stack-overflow: # Number/Username, e.g. 123456/alandoe
+  #codewars:
+  #goodreads: # Number-Username, e.g. 123456-alandoe
+  #mastodon: # Please include your full Mastodon link here.
+  #hackerrank: # Please provide your HackerRank username.
+  #leetcode: # Please provide your LeetCode username.
+  #pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
     title: Languages
     info:
-    - idiom: English
+    - idiom: Spanish
       level: Native
 
-    - idiom: French
+    - idiom: Italian
       level: Professional
 
-    - idiom: Spanish
+    - idiom: English
       level: Professional
 
-  interests:
-    title: Interests
-    info:
-    - item: Climbing
-      link:
+  #interests:
+  #  title: Interests
+  #  info:
+  #  - item: Climbing
+  #    link:
 
 
-    - item: Snowboarding
-      link:
+  # - item: Snowboarding
+  #    link:
 
 
-    - item: Cooking
-      link:
+  #  - item: Cooking
+  #    link:
 
 
 career-profile:
-  title: Career Profile
+  title: PhD in Computer Science (UNSL-Argentina)
   summary: |
     Summarise your career here lorem ipsum dolor sit amet, consectetuer
     adipiscing elit. You can [download this free resume/CV template here]().
