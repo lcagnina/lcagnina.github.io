@@ -8,20 +8,21 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Phd Leticia Cagnina
-  tagline: Researcher at CONICET Professor at UNSL (Argentina)
+  name: Dr Leticia Cagnina
+  tagline: Researcher at CONICET & Professor at UNSL
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: lcagnina@email.unsl.edu.ar
+  website: https://sites.google.com/view/leticia-cagnina/home
   #phone: 012 345 6789
   #timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship: Argentine
-  website: https://sites.google.com/view/leticia-cagnina/home
+  Current Affiliation: Universidad Nacional de San Luis (UNSL), Argentina & Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Argentina
+  #citizenship: Argentine
   Institutional Web: https://lidic.unsl.edu.ar/
-  linkedin: linkedin.com/in/leticia-cagnina-phd/
+  #linkedin: linkedin.com/in/leticia-cagnina-phd/
   #xing: alandoe
-  github: lcagnina
+  github: https://github.com/lcagnina
   ORCID: 0000-0001-7825-2927  
   #telegram: # add your nickname without '@' sign
   #gitlab:
@@ -64,39 +65,30 @@ sidebar:
 
 
 career-profile:
-  title: PhD in Computer Science (UNSL-Argentina)
+  title: Senior AI Research Scientist | NLP | Health AI | Machine Learning
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    My research focuses on building trustworthy intelligent systems whose behavior can be understood, evaluated, and deployed responsibly in real-world environments. Throughout my career, I have combined machine learning, natural language processing, optimization, and intelligent multi-agent systems to address problems where autonomous decision-making must remain transparent, reproducible, and empirically validated. Rather than developing isolated algorithms, my work emphasizes rigorous experimental methodology, reproducible evaluation, and open research infrastructure that enables reliable comparison between competing approaches.
 education:
   title: Education
   info:
+  - degree: Phd in Computer Science
+    university: Universidad Nacional de San Luis (Argentina)
+    time: 2010
+    details: |
+        - Bullet point Thesis: Optimización mono y multiobjetivo a través de una heurística de Inteligencia Colectiva
+        - Bullet point Advisors: Dr Coello Coello Carlos (CINVESTAV-Instituto Politécnico Nacional, México) & Susana Esquivel (UNSL)
   - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+    university: Universidad Nacional de San Luis (Argentina)
+    time: 2007
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+        - Bullet point Thesis: Optimización, a través de Heurísticas de Inteligencia Colectiva, en Ambientes Estacionarios y no Estacionarios
+        - Bullet point Advisors: Dr Coello Coello Carlos (CINVESTAV-Instituto Politécnico Nacional, México) & Susana Esquivel (UNSL)
+  - degree: BSc(Licenciatura) in Computer Science
+    university: Universidad Nacional de San Luis (Argentina)
+    time: 2003
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+        - Bullet point Thesis: Evaluación de Técnicas de Reconstrucción de Terrenos a través de una Técnica de Visión.
+        - Bullet point Advisor: MSc Roberto Ariel Guerrero (UNSL). 
 
 experiences:
   title: Experiences
