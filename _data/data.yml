@@ -155,29 +155,25 @@ experiences:
 #      Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
-  title: Reserach projects
+  title: Research projects
   intro: >
     Selected research projects funded by national and international agencies and institutions.
   assignments:
-  - title: Sistemas Inteligentes Híbridos basados en IA neurosimbólica para dominios críticos.
+  - title: Sistemas Inteligentes Híbridos basados en IA neurosimbólica para dominios críticos (2026-2029).
     link: "https://lidic.unsl.edu.ar/proyectos#sistemas-inteligentes"
-    tagline: "Universidad Nacional de San Luis (Argentina)."
+    tagline: "Co-director - Universidad Nacional de San Luis (Argentina)."
 
-  - title: DevStudio
+  - title: Soluciones Innovadoras para Desafíos de Software (2023-2024).
     link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    tagline: "Expert Research Advisor - Fundación Sadosky."
 
-  - title: Tempo
+  - title: Financiamiento Fase Cero 4ta Edición (2020)
     link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    tagline: "Expert Research - Fundación Sadosky."
 
-  - title: Atom
+  - title: Web Information Quality Evaluation Initiative” (WIQ-EI) - Seventh Framework Programme (2011-2015).
     link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    tagline: "International Research Project Participation - Marie Curie Actions, International Research Staff Exchange Scheme."
 
 #oss:
 #  title: OSS Contributions
