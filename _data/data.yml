@@ -65,7 +65,7 @@ sidebar:
 
 
 career-profile:
-  title: Senior AI Research Scientist | NLP | Health AI | Machine Learning
+  title: AI Research Scientist | NLP | Health AI | Machine Learning
   summary: |
     My research focuses on building trustworthy intelligent systems whose behavior can be understood, evaluated, and deployed responsibly in real-world environments. Throughout my career, I have combined machine learning, natural language processing, optimization, and intelligent multi-agent systems to address problems where autonomous decision-making must remain transparent, reproducible, and empirically validated. Rather than developing isolated algorithms, my work emphasizes rigorous experimental methodology, reproducible evaluation, and open research infrastructure that enables reliable comparison between competing approaches.
 education:
@@ -83,7 +83,7 @@ education:
     details: |
         - Bullet point Thesis: Optimización, a través de Heurísticas de Inteligencia Colectiva, en Ambientes Estacionarios y no Estacionarios
         - Bullet point Advisors: Dr Coello Coello Carlos (CINVESTAV-Instituto Politécnico Nacional, México) & Susana Esquivel (UNSL)
-  - degree: BSc(Licenciatura) in Computer Science
+  - degree: BSc (Licenciatura) in Computer Science
     university: Universidad Nacional de San Luis (Argentina)
     time: 2003
     details: |
@@ -236,44 +236,44 @@ publications:
     authors: Edgar T. Irons
     conference: "Comm. ACM 4 (1961), 51–55"
 
-recommendations:
-  title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
+#recommendations:
+#  title: Recommendations
+#  list:
+#  - person: Yareli Perez
+#    email: perezyareli@example.com
+#    phone: 012 345 6789
+#    role: General Director at example.com
+#    recommendation: |
+#      Alan Doe is a super employee!
+#  - person: Lara Henderson
+#    email: larah@example.com
+#    phone: 012 345 6789
+#    role: General Director at example.com
+#    recommendation: |
+#      I would like to work with Alan Doe again!
 
-      He is a great employee!
+#      He is a great employee!
 
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
+  - name: Optimization
+    level: 100%
+
+  - name: Machine Learning
+    level: 99%
+
+  - name: Natural Language Processing (NLP)
     level: 98%
 
-  - name: Javascript & jQuery
-    level: 98%
+  - name: Large Language Models (LLM)
+    level: 90%
 
-  - name: Angular
-    level: 98%
+  - name: Computer Vision
+    level: 80%
 
-  - name: HTML5 & CSS
-    level: 95%
-
-  - name: Ruby on Rails
-    level: 85%
-
-  - name: Sketch & Photoshop
+  - name: Agents
     level: 60%
 
 footer: >
