@@ -67,7 +67,12 @@ sidebar:
 career-profile:
   title: AI Research Scientist | NLP | Machine Learning
   summary: |
-    My research focuses on building trustworthy intelligent systems whose behavior can be understood, evaluated, and deployed responsibly in real-world environments. Throughout my career, I have combined machine learning, natural language processing, optimization, and intelligent multi-agent systems to address problems where autonomous decision-making must remain transparent, reproducible, and empirically validated. Rather than developing isolated algorithms, my work emphasizes rigorous experimental methodology, reproducible evaluation, and open research infrastructure that enables reliable comparison between competing approaches.
+    My research focuses on building trustworthy intelligent systems whose behavior can be understood, evaluated, and deployed responsibly in 
+    real-world environments. Throughout my career, I have combined machine learning, natural language processing, optimization, 
+    and intelligent multi-agent systems to address problems where autonomous decision-making must remain transparent, reproducible, 
+    and empirically validated. Rather than developing isolated algorithms, my work emphasizes rigorous experimental methodology, 
+    reproducible evaluation, and open research infrastructure that enables reliable comparison between competing approaches.
+    
 education:
   title: Education
   info:
@@ -76,8 +81,8 @@ education:
     time: 2010 - 2012
     details: |
       blabla
-        - Bullet point Thesis: Optimización mono y multiobjetivo a través de una heurística de Inteligencia Colectiva
-        - Bullet point Advisors: Dr Coello Coello Carlos (CINVESTAV-Instituto Politécnico Nacional, México) & Susana Esquivel (UNSL)
+        - Thesis: Optimización mono y multiobjetivo a través de una heurística de Inteligencia Colectiva
+        - Advisors: Dr Coello Coello Carlos (CINVESTAV-Instituto Politécnico Nacional, México) & Susana Esquivel (UNSL)
   - degree: MSc in Computer Science
     university: Universidad Nacional de San Luis (Argentina)
     time: 2007
