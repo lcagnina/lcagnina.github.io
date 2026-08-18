@@ -4,8 +4,8 @@
 
 sidebar:
   position: left # position of the sidebar : left or right
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: True # set to False if you want education in main section instead of in sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: False # set to True if you do not want education in main section instead of in sidebar
 
   # Profile information
   name: Dr Leticia Cagnina
@@ -20,7 +20,7 @@ sidebar:
   Current Affiliation: Universidad Nacional de San Luis (UNSL), Argentina & Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Argentina
   #citizenship: Argentine
   #institutional web: https://lidic.unsl.edu.ar/
-  website: https://lidic.unsl.edu.ar/
+  #website: https://lidic.unsl.edu.ar/
   #linkedin: linkedin.com/in/leticia-cagnina-phd/
   #xing: alandoe
   github: https://github.com/lcagnina
