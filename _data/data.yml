@@ -15,9 +15,10 @@ sidebar:
   # Sidebar links
   email: lcagnina@email.unsl.edu.ar
   website: https://sites.google.com/view/leticia-cagnina/home
+  website: https://lidic.unsl.edu.ar/
   #phone: 012 345 6789
   #timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  Current Affiliation: Universidad Nacional de San Luis (UNSL), Argentina & Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Argentina
+  Affiliation: Universidad Nacional de San Luis (UNSL), Argentina & Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Argentina
   #citizenship: Argentine
   #institutional web: https://lidic.unsl.edu.ar/
   #website: https://lidic.unsl.edu.ar/
@@ -81,7 +82,6 @@ education:
     university: Universidad Nacional de San Luis (Argentina)
     time: 2010 - 2012
     details: |
-     ##My best thesis!
         - Thesis: Optimización mono y multiobjetivo a través de una heurística de Inteligencia Colectiva
         - Advisors: Dr Coello Coello Carlos (CINVESTAV-Instituto Politécnico Nacional, México) & Susana Esquivel (UNSL)
   - degree: MSc in Computer Science
