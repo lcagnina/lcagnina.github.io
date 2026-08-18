@@ -51,11 +51,11 @@ sidebar:
     - idiom: English
       level: Professional
 
-  #interests:
-  #  title: Interests
-  #  info:
-  #  - item: Climbing
-  #    link:
+  interests: affiliation
+    title: unsl
+    info:
+    - item: Climbing
+      link:
 
 
   # - item: Snowboarding
