@@ -52,14 +52,22 @@ sidebar:
       level: Professional
 
   interests:
-    title: Current Affiliations
+    title: Interests
     info:
-    - item: Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Argentina
-      link: https://bicyt.conicet.gov.ar/fichas/p/leticia-cecilia-cagnina
+    - item: Climbing
+      link:
+
+
+    - item: Snowboarding
+      link:
+  #interests:
+  #  title: Current Affiliations
+  #  info:
+  #  - item: Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Argentina
+  #    link: https://bicyt.conicet.gov.ar/fichas/p/leticia-cecilia-cagnina
       
-   - item: Universidad Nacional de San Luis (UNSL), Argentina
-  #info:Snowboarding
-      link: https://lidic.unsl.edu.ar/
+  # - item: Universidad Nacional de San Luis (UNSL), Argentina
+  #   link: https://lidic.unsl.edu.ar/
 
 
   #  - item: Cooking
