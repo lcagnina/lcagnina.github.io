@@ -39,6 +39,18 @@ sidebar:
   #leetcode: # Please provide your LeetCode username.
   #pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
+  interests:
+    title: Afilliations
+    info:
+    - item: Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Argentina
+      link: https://bicyt.conicet.gov.ar/fichas/p/leticia-cecilia-cagnina
+      
+    - item: Laboratorio de Investigación y Desarrollo en Inteligencia Computacional (LIDIC), Argentina
+      link: https://lidic.unsl.edu.ar/
+
+    - item: Universidad Nacional de San Luis (UNSL), Argentina
+      link: https://www.unsl.edu.ar/
+      
   languages:
     title: Languages
     info:
@@ -51,30 +63,9 @@ sidebar:
     - idiom: English
       level: Professional
 
-  interests:
-    title: Afilliations
-    info:
-    - item: Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Argentina
-      link: https://bicyt.conicet.gov.ar/fichas/p/leticia-cecilia-cagnina
+  
 
-
-    - item: Universidad Nacional de San Luis (UNSL), Argentina
-      link: https://lidic.unsl.edu.ar/
-
-  #interests:
-  #  title: Current Affiliations
-  #  info:
-  #  - item: Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Argentina
-  #    link: https://bicyt.conicet.gov.ar/fichas/p/leticia-cecilia-cagnina
-      
-  # - item: Universidad Nacional de San Luis (UNSL), Argentina
-  #   link: https://lidic.unsl.edu.ar/
-
-
-  #  - item: Cooking
-  #    link:
-
-
+  
 career-profile:
   title: AI Research Scientist | NLP | Machine Learning
   summary: |
@@ -185,14 +176,14 @@ projects:
     #link: "#"
     tagline: "International Research Project Participation - Marie Curie Actions, International Research Staff Exchange Scheme."
 
-oss:
-  title: OSS Contributions
-  intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#oss:
+#  title: OSS Contributions
+#  intro: >
+#    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#  contributions:
+#  - title: Tempo
+#    link: "#"
+#    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
 #  - title: Atom
 #    link: "#"
