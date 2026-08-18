@@ -196,10 +196,22 @@ projects:
 publications:
   title: Publications
   intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
+    List of publications as researcher at LIDIC, UNSL & CONICET.
   papers:
+  - title: The Art of Computer Programming
+    link: "#"
+    authors: Donald E. Knuth
+    conference: Addison-Wesley, 1968
+
+  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+    link: "https://doi.org/10.1016/j.jpdc.2026.105337"
+    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+  - title: A syntax directed compiler for Algol 60
+    link: "#"
+    authors: Edgar T. Irons
+    conference: "Comm. ACM 4 (1961), 51–55"
   - title: "Parallel Architectures for Large-Scale Document Processing: Integrating OCR and RAG Pipelines"
   link: "https://doi.org/10.1016/j.jpdc.2026.105337"
   authors: Alejandro Jaime, Veronica Gil-Costa, Marcelo Errecalde, Leticia Cagnina
