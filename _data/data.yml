@@ -51,17 +51,17 @@ sidebar:
     - item: Universidad Nacional de San Luis (UNSL), Argentina
       link: https://www.unsl.edu.ar/
       
-  languages:
-    title: Languages
-    info:
-    - idiom: Spanish
-      level: Native
+  #languages:
+  #  title: Languages
+  #  info:
+  #  - idiom: Spanish
+  #    level: Native
 
-    - idiom: Italian
-      level: Professional
+  #  - idiom: Italian
+  #    level: Professional
 
-    - idiom: English
-      level: Professional
+  #  - idiom: English
+  #    level: Professional
 
   
 
