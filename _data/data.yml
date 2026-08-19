@@ -42,13 +42,13 @@ sidebar:
   interests:
     title: Afilliations
     info:
-    - item: - Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Argentina
+    - item: -Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Argentina
       link: https://bicyt.conicet.gov.ar/fichas/p/leticia-cecilia-cagnina
       
-    - item: - Laboratorio de Investigación y Desarrollo en Inteligencia Computacional (LIDIC), Argentina
+    - item: -Laboratorio de Investigación y Desarrollo en Inteligencia Computacional (LIDIC), Argentina
       link: https://lidic.unsl.edu.ar/
 
-    - item: - Universidad Nacional de San Luis (UNSL), Argentina
+    - item: -Universidad Nacional de San Luis (UNSL), Argentina
       link: https://www.unsl.edu.ar/
       
   #languages:
