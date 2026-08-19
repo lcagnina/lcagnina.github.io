@@ -503,6 +503,195 @@ publications:
     authors: "Edgardo Ferretti, Cecilia Sosa Toranzo, Guillermo Aguirre, Juan Martín Loyola, Leticia Cagnina, Marcelo Errecalde"
     conference: "XVIII Workshop de Investigadores en Ciencias de la Computación (WICC), 2016"
 
+  - title: "Cross Domain Author Profiling Task in Spanish Language: An Experimental Study"
+    link: "http://journal.info.unlp.edu.ar/JCST/article/view/544/106"
+    authors: "Ma. José Garciarena Ucelay, Ma. Paula Villegas, Leticia C. Cagnina, Marcelo L. Errecalde"
+    conference: "Journal of Computer Science and Technology (JCS&T), 2015"
+
+  - title: "Classification of deceptive opinions using a low dimensionality representation"
+    link: "http://aclweb.org/anthology/W15-2909"
+    authors: "Leticia Cagnina, Paolo Rosso"
+    conference: "6th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis, 2015"
+
+  - title: "A Spanish text corpus for the author profiling task"
+    link: "#"
+    authors: "María Paula Villegas, María José Garciarena Ucelay, Marcelo Luis Errecalde, Leticia Cecilia Cagnina"
+    conference: "XX Congreso Argentino de Ciencias de la Computación (CACIC), 2014"
+
+  - title: "An efficient Particle Swarm Optimization approach to cluster short texts"
+    link: "http://dx.doi.org/10.1016/j.ins.2013.12.010"
+    authors: "Leticia Cagnina, Marcelo Errecalde, Diego Ingaramo, Paolo Rosso"
+    conference: "Information Sciences, 2014"
+
+  - title: "Particle Swarm Algorithms to solve engineering problems: a comparison of performance"
+    link: "http://dx.doi.org/10.1155/2013/435104"
+    authors: "Giordano Tomassetti, Leticia Cagnina"
+    conference: "Journal of Engineering, 2013"
+
+  - title: "Determinación de género y edad en blogs en español mediante enfoques basados en perfil"
+    link: "#"
+    authors: "Darío Funez, Leticia Cagnina, Marcelo Errecalde"
+    conference: "XIX Congreso Argentino de Ciencias de la Computación (CACIC), 2013"
+
+  - title: "Measuring the quality of web content using factual information"
+    link: "#"
+    authors: "Elisabeth Lex, Michael Voelske, Marcelo Errecalde, Edgardo Ferretti, Leticia Cagnina, Christopher Horn, Benno Stein, Michael Granitzer"
+    conference: "2nd Joint WICOW/AIRWeb Workshop on Web Quality, ACM, 2012"
+
+  - title: "A Particle Swarm Optimizer to Cluster Parallel Spanish-English Short-text Corpora"
+    link: "http://ceur-ws.org/Vol-824/single.pdf"
+    authors: "Diego Ingaramo, Marcelo Errecalde, Leticia Cagnina, Paolo Rosso"
+    conference: "Workshop ICL on Iberian Cross-Language NLP Tasks, CEUR Workshop Proceedings, 2012"
+
+  - title: "A Hybrid Metaheuristic Based on Differential Evolution and Local Search with Quadratic Interpolation"
+    link: "#"
+    authors: "Laura Tardivo, Leticia Cagnina, Guillermo Leguizamón"
+    conference: "XVIII Congreso Argentino de Ciencias de la Computación (CACIC), 2012"
+
+  - title: "A PSO-based Clustering Approach Assisted by Initial Clustering Information"
+    link: "#"
+    authors: "Carlos Velazquez, Leticia Cagnina, Marcelo Errecalde"
+    conference: "XVIII Congreso Argentino de Ciencias de la Computación (CACIC), 2012"
+
+  - title: "Performance analysis of Particle Swarm Optimization applied to unsupervised clustering of short texts"
+    link: "http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/976/729"
+    authors: "Leticia Cagnina, Diego Ingaramo, Marcelo Errecalde, Paolo Rosso"
+    conference: "Procesamiento del Lenguaje Natural, 2011"
+
+  - title: "Solving constrained optimization problems with a hybrid particle swarm optimization algorithm"
+    link: "https://doi.org/10.1080/0305215X.2010.522707"
+    authors: "Leticia Cecilia Cagnina, Susana Cecilia Esquivel, Carlos A. Coello Coello"
+    conference: "Engineering Optimization, 2011"
+
+  - title: "A Fast Particle Swarm Algorithm For Solving Smooth and Non-smooth Economic Dispatch Problems"
+    link: "https://doi.org/10.1080/0305215X.2010.497186"
+    authors: "Leticia Cecilia Cagnina, Susana Cecilia Esquivel, Carlos A. Coello Coello"
+    conference: "Engineering Optimization, 2011"
+
+  - title: "Algoritmos bio-inspirados aplicados a tareas de clasificación de textos cortos"
+    link: "#"
+    authors: "Leticia Cagnina, Marcelo Errecalde, Paolo Rosso"
+    conference: "IV Jornadas Tratamiento de Información Multilingüe y Multimodal (TIMM), 2011"
+
+  - title: "Sistemas Inteligentes para la Evaluación de la Calidad de la Información en la Web"
+    link: "#"
+    authors: "Marcelo Errecalde, Edgardo Ferretti, Diego Ingaramo, María Rosas, Leticia Cagnina, Dario Funez, Patricia Roggero, Carlos Velázquez"
+    conference: "XIII Workshop de Investigadores en Ciencias de la Computación (WICC), 2011"
+
+  - title: "Solving Hard Multiobjective Problems with a Hybridized Method"
+    link: "http://journal.info.unlp.edu.ar/journal/journal29/papers/JCST-Oct10-2.pdf"
+    authors: "Leticia C. Cagnina, Susana C. Esquivel"
+    conference: "Journal of Computer Science and Technology (JCS&T), 2010"
+
+  - title: "Un nuevo paradigma computacional basado en una antigua investigación biológica"
+    link: "http://fundamentos.unsl.edu.ar/pdf/revista-21.pdf"
+    authors: "Leticia Cecilia Cagnina"
+    conference: "Fundamentos en Humanidades, 2010"
+
+  - title: "A Particle Swarm Optimizer to cluster short-text corpora: a performance study"
+    link: "#"
+    authors: "Diego A. Ingaramo, Leticia C. Cagnina, Marcelo L. Errecalde, Paolo Rosso"
+    conference: "Workshop in Natural Language Processing and Web-based Technologies (IBERAMIA), 2010"
+
+  - title: "Particle Swarm Optimization for clustering short-text corpora"
+    link: "#"
+    authors: "Diego Ingaramo, Marcelo Errecalde, Leticia Cagnina, Paolo Rosso"
+    conference: "Computational Intelligence and Bioengineering, IOS Press, 2009"
+
+  - title: "Optimización de Funciones Mono-Objetivo con y sin restricciones, y Funciones Multi-Objetivo a través de Heurísticas Bio-Inspiradas"
+    link: "#"
+    authors: "Victoria Aragón, Leticia Cagnina, Susana Esquivel"
+    conference: "XI Workshop de Investigadores en Ciencias de la Computación (WICC), 2009"
+
+  - title: "Solving Engineering Optimization Problems with the Simple Constrained PSO"
+    link: "http://www.informatica.si/index.php/informatica/article/view/204/201"
+    authors: "Leticia C. Cagnina, Susana C. Esquivel, Carlos A. Coello Coello"
+    conference: "Informatica – International Journal of Computing and Informatics, 2008"
+
+  - title: "A Discrete Particle Swarm Optimizer for Clustering Short-Text Corpora"
+    link: "#"
+    authors: "Leticia C. Cagnina, Marcelo L. Errecalde, Diego A. Ingaramo, Paolo Rosso"
+    conference: "3rd International Conference on Bioinspired Optimization Methods and their Applications (BIOMA), 2008"
+
+  - title: "Multi-Objective Optimization with a Gaussian PSO algorithm"
+    link: "#"
+    authors: "Susana C. Esquivel, Leticia C. Cagnina"
+    conference: "XIV Congreso Argentino en Ciencias de la Computación (CACIC), 2008"
+
+  - title: "A Bi-population PSO with a Shake-Mechanism for Solving Constrained Numerical Optimization"
+    link: "#"
+    authors: "Leticia C. Cagnina, Susana C. Esquivel, Carlos A. Coello Coello"
+    conference: "Congress on Evolutionary Computation (CEC), 2007"
+
+  - title: "Hybrid Particle Swarm optimizers in the Single Machine Scheduling Problem: An experimental Study"
+    link: "#"
+    authors: "Leticia Cagnina, Susana Esquivel, Carlos A. Coello Coello"
+    conference: "Evolutionary Scheduling, Springer-Verlag, 2007"
+
+  - title: "Global Numerical Optimization with a bi-population Particle Swarm Optimizer"
+    link: "#"
+    authors: "Susana C. Esquivel, Leticia C. Cagnina"
+    conference: "XIII Congreso Argentino en Ciencias de la Computación (CACIC), 2007"
+
+  - title: "Metaheurísticas basadas en Inteligencia Computacional Aplicadas a la Resolución de Problemas de Optimización Numérica con y sin Restricciones y Optimización Combinatoria"
+    link: "#"
+    authors: "Victoria Aragón, Leticia Cagnina, Claudia Gatica, Susana Esquivel"
+    conference: "IX Workshop de Investigadores en Ciencias de la Computación (WICC), 2007"
+
+  - title: "A Particle Swarm Optimizer for Constrained Numerical Optimization"
+    link: "#"
+    authors: "Leticia C. Cagnina, Susana C. Esquivel, Carlos A. Coello-Coello"
+    conference: "Parallel Problem Solving from Nature (PPSN IX), Lecture Notes in Computer Science, Springer, 2006"
+
+  - title: "Metaheurísticas basadas en Inteligencia Computacional Aplicadas a la Resolución de Problemas de Optimización Restringidos"
+    link: "#"
+    authors: "Victoria Aragón, Leticia Cagnina, Susana Esquivel"
+    conference: "VIII Workshop de Investigadores en Ciencias de la Computación (WICC), 2006"
+
+  - title: "A Particle Swarm Optimizer for Multi-Objective Optimization"
+    link: "http://journal.info.unlp.edu.ar/journal/journal16/papers/JCST-Dec05-7.pdf"
+    authors: "Leticia Cagnina, Susana Esquivel, Carlos A. Coello Coello"
+    conference: "Journal of Computer Science and Technology (JCS&T), 2005"
+
+  - title: "Optimización Mono y Multiobjetivo a través de Métodos de Aproximación de Soluciones en Ambientes Estacionarios y no Estacionarios"
+    link: "#"
+    authors: "Susana Esquivel, Victoria Aragón, Leticia Cagnina"
+    conference: "VII Workshop de Investigadores en Ciencias de la Computación (WICC), 2005"
+
+  - title: "Particle Swarm Optimization for Sequencing Problems: A Case Study"
+    link: "#"
+    authors: "Leticia Cagnina, Susana Esquivel, Raúl Gallard"
+    conference: "Congress on Evolutionary Computation (CEC), 2004"
+
+  - title: "Particle Swarm Optimization para un Problema de Optimización Combinatoria"
+    link: "#"
+    authors: "Leticia Cecilia Cagnina, Susana Cecilia Esquivel"
+    conference: "X Congreso Argentino en Ciencias de la Computación (CACIC), 2004"
+
+  - title: "Particle Swarm Optimization para Problemas de Secuenciamiento: Total Weighted Tardiness"
+    link: "#"
+    authors: "Leticia Cagnina, Susana Esquivel, Raúl Gallard"
+    conference: "VI Workshop de Investigadores en Ciencias de la Computación (WICC), 2004"
+
+  - title: "Uso de una técnica de visión en la evaluación de métodos de reconstrucción"
+    link: "#"
+    authors: "Leticia Cecilia Cagnina, Roberto Ariel Guerrero"
+    conference: "VIII Congreso Argentino de Ciencias de la Computación (CACIC), 2002"
+
+  - title: "Aplicación de una Técnica de Visión a la Representación de una Superficie de Terreno Reconstruido a Partir de Contornos Planares"
+    link: "#"
+    authors: "Leticia Cagnina, Roberto Guerrero"
+    conference: "IV Workshop de Investigadores en Ciencias de la Computación (WICC), 2002"
+
+  - title: "Líneas de Investigación en Computer Imagery"
+    link: "#"
+    authors: "Leticia Cagnina, Jacqueline Fernandez, Roberto Guerrero, Ileana Roche, Hugo Viano"
+    conference: "III Workshop de Investigadores en Ciencias de la Computación (WICC), 2001"
+
+  - title: "Implementación de la Técnica de Compresión de imágenes JPEG y Evaluación de Resultados Respecto de GIF"
+    link: "#"
+    authors: "Victoria Soledad Aragón, Leticia Cecilia Cagnina"
+    conference: "29° Jornadas Argentinas de Informática e Investigación Operativa (JAIIO), 2000"
 
 
 
@@ -547,5 +736,5 @@ skills:
   - name: Agents
     level: 60%
 
-#footer: >
-#  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+footer: >
+  Last update: August, 2026 <i class="fas fa-heart"></i> #by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
